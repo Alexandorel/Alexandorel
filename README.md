@@ -5,6 +5,6 @@ Computer Science student passionate about building things — from web apps and 
 ###  What I work with
 
 - **Languages:** Java, Python, C#, JavaScript, PHP
-- **Web:** Laravel (Blade), HTML/CSS, JavaScript
+- **Web:** React, Laravel (Blade), HTML/CSS, JavaScript
 - **AI / ML:** Python, scikit-learn, PyTorch, pandas
 - **Tools:** Git, Jupyter, VS Code, IntelliJ IDEA
